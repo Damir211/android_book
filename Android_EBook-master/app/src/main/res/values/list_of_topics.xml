@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="frame00">  Содержание</string>
+    <string name="frame01">  Астана</string>
+    <string name="frame02">  Париж</string>
+    <string name="frame03">  Лос-Анджелес</string>
+    <string name="frame04">  Дубай</string>
+    <string name="frame05">  Стокгольм</string>
+    <string name="frame06">  Москва</string>
+</resources>
